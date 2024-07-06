@@ -117,11 +117,11 @@ input, select, textarea {
 
 		a:hover {
 			border-bottom-color: transparent;
-			color: #ec3361 !important;
+			color: #003049 !important;
 		}
 
 	strong, b {
-		color: #ec3361;
+		color: #003049;
 		font-weight: 700;
 	}
 
@@ -134,7 +134,7 @@ input, select, textarea {
 	}
 
 	h1, h2, h3, h4, h5, h6 {
-		color: #ec3352;
+		color: #003049;
 		font-weight: 700;
 		line-height: 1em;
 		margin: 0 0 0.5625em 0;
@@ -191,6 +191,7 @@ input, select, textarea {
 
 		hr.major {
 			margin: 3.375em 0;
+			
 		}
 
 	blockquote {
@@ -1861,7 +1862,7 @@ ul.contact {
 		font-family: 'Font Awesome 5 Free';
 		font-weight: 400; }
 	  ul.contact li:before {
-		color: #ec3361;
+		color: #003049;
 		display: inline-block;
 		font-size: 1.5em;
 		height: 1.125em;
@@ -1914,7 +1915,7 @@ ul.contact {
 	}
 
 	header.major h2 {
-		color: #ec3361;
+		color: #003049;
 		font-size: 3em;
 		line-height: 1.4em;
 	}
@@ -1978,7 +1979,7 @@ ul.contact {
 		input[type="email"]:focus,
 		select:focus,
 		textarea:focus {
-			border-color: #ec3361;
+			border-color: #003049;
 		}
 
 	select {
@@ -2083,7 +2084,7 @@ ul.contact {
 
 		input[type="checkbox"]:focus + label:before,
 		input[type="radio"]:focus + label:before {
-			border-color: #ec3361;
+			border-color: #003049;
 		}
 
 	input[type="checkbox"] + label:before {
@@ -2520,7 +2521,7 @@ ul.feature-icons {
 	}
 
 		ul.feature-icons > li > span.icon {
-			background: #ec3361;
+			background: #003049;
 			border-radius: 100%;
 			color: #ffffff;
 			display: inline-block;
@@ -2726,7 +2727,7 @@ ul.feature-icons {
 		input[type="reset"].primary,
 		input[type="button"].primary,
 		.button.primary {
-			background-color: #ec3361;
+			background-color: #003049;
 			color: #ffffff !important;
 		}
 
@@ -2734,14 +2735,14 @@ ul.feature-icons {
 			input[type="reset"].primary:hover,
 			input[type="button"].primary:hover,
 			.button.primary:hover {
-				background-color: #db5b7b;
+				background-color: #33596d;
 			}
 
 			input[type="submit"].primary:active,
 			input[type="reset"].primary:active,
 			input[type="button"].primary:active,
 			.button.primary:active {
-				background-color: #eb1c50;
+				background-color: #33596d;
 			}
 
 		input[type="submit"].disabled, input[type="submit"]:disabled,
@@ -2808,8 +2809,8 @@ ul.feature-icons {
 		-webkit-justify-content: space-between;
 		-ms-justify-content: space-between;
 		justify-content: space-between;
-		background: #ad0b33;
-		color: #d2f2e9;
+		background: #003049;
+		color: #ff0000;
 		height: 100%;
 		overflow-y: auto;
 		position: fixed;
@@ -2832,7 +2833,7 @@ ul.feature-icons {
 		}
 
 		#header a {
-			color: #d2f2e9;
+			color: #ff0000;
 		}
 
 			#header a:hover {
@@ -2859,7 +2860,7 @@ ul.feature-icons {
 			}
 
 			#header > header p {
-				color: #d2f2e9;
+				color: #ccd5da;
 				font-style: italic;
 				margin: 1em 0 0 0;
 			}
@@ -2897,7 +2898,7 @@ ul.feature-icons {
 			}
 
 				#header > nav ul li {
-					border-top: solid 2px #a8193d;
+					border-top: solid 2px #003049;
 					display: block;
 					padding: 0;
 				}
@@ -2916,7 +2917,7 @@ ul.feature-icons {
 
 						#header > nav ul li a.active {
 							background: #fff;
-							color: #ec3361 !important;
+							color: #003049 !important;
 						}
 
 					#header > nav ul li:first-child {
@@ -3184,7 +3185,7 @@ ul.feature-icons {
 					}
 
 					#titleBar .toggle:before {
-						background: #ec3361;
+						background: #003049;
 						color: #ffffff;
 						content: '\f0c9';
 						display: block;
